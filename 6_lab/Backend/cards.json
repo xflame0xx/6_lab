@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "first_name": "Илья",
+    "last_name": "Сныткин",
+    "photo_400": "https://vk.com/images/camera_400.png",
+    "role": "owner",
+    "city": {
+      "title": "Норильск"
+    },
+    "mobile_phone": "-",
+    "sex": 2,
+    "last_seen": {
+      "time": 1766424049
+    }
+  },
+  {
+    "id": 2,
+    "first_name": "Поляков",
+    "last_name": "Никита",
+    "photo_400": "https://vk.com/images/camera_400.png",
+    "role": "administrator",
+    "city": {
+      "title": "Норильск"
+    },
+    "mobile_phone": "-",
+    "sex": 2,
+    "last_seen": {
+      "time": 1766424052
+    }
+  },
+  {
+    "id": 1766424098447,
+    "first_name": "Евгений",
+    "last_name": "Розин",
+    "photo_400": "https://vk.com/images/camera_400.png",
+    "role": null,
+    "city": {
+      "title": "Норильск"
+    },
+    "mobile_phone": "",
+    "sex": 0,
+    "last_seen": {
+      "time": 1766424109
+    }
+  }
+]
